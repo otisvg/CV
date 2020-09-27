@@ -1,64 +1,79 @@
-## Your Name
+## Otis Vickers-Graver
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+
+The constant evolution of technology has always made me desperately excited for what the future holds - likely technologies we can't even comprehend yet. I want to help build them! So, I am making a career change. To achieve this I am studying at Makers, a highly selective 16-week remote bootcamp that will help me realise my dream of building these technologies by putting me on the path to becoming a developer.
+
+<!--I love how coding allows me to merge my logical thinking processes with my creative mindset. -->
+
 
 ## Projects
+TBD
 
-| Name                         | Description       | Tech/tools        |
+<!--| Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Something else worked on** | A webapp to do y. | Ruby              |-->
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Soho Sandwich Co** (October 2019 to September 2020)  
+_Goods In Handler/Ordering_
 
-- Any experience relevent to software development
+**Tesco** (April 2016 to December 2018)  
+_Merchandising/Payroll Clerk_
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Collage Arts** (February 2016 to February 2017)                                   
+_Youth Lead_
 
-- Any experience relevent to software development
+**Theo Fennell** (April 2014 to June 2015)                                              
+_Stock Controller_
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+**I enjoy learning**
 
-#### This Skill
+I love expanding my knowledge and stuffing new ideas into my brain - when studying I open my laptop with a wide grin and a few foot taps of excitement. This giddyness soon simmers down when I find a bug or run into something tricky, but solving these problems is the best part of this process as mistakes teach and help what I've learnt stick.
 
-- Experience
-- Achievements
-- Evidence
 
-#### Another Skill
+**Adaptive**
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I'm not afraid of challenges and stepping outside of my comfort zone. 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+**Mentoring**                             
+I spent the majority of my time at Collage Arts mentoring young people. This included assisting them in finding work, getting them involved in social activities and teaching them new skills. I ran weekly screen-printing workshops in which I taught how to create t-shirt designs from scratch, spoke at about the importance of mentoring at a conference in Barcelona and was appointed as Youth Lead.
+
+**Creative thinker**
+
+Whenever I want to create something it's often because it doesn't exist yet, or that it does but a much better job could be done.
+
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (October 2020 to December 2020)
+TBD
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### City & Islington Sixth Form College (September 2010 to July 2012)
 
-#### Your University / College (start_date to end_date)
+International Baccalaureate Certificate achieved.
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+Subjects: English, Maths, Biology, Chemistry, Social & Cultural Anthropology, Italian and Theory of Knowledge.
 
-#### Any other qualifications
+Completed a 4000 word extended essay on the environmental impact of the Chernobyl disaster.
 
-That in some arguable way make you a better software developer or well-rounded person
+#### Gladesmore Community School (September 2006 - July 2010)
+
+- 10 A-C GCSEs
+- Includes A in Maths, English, Science and Food Technology
+- Includes Spanish Business Diploma (BB)
+
+<!--#### Any other qualifications
+
+That in some arguable way make you a better software developer or well-rounded person-->
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I love anything to do with gaming, and can't wait for the release of Cyberpunk 2077.
+
+I travel alot, and recently spent some time in Sydney, Australia which was an amazing experience and the furthest I've ever been from home.
+
+I spend a copious amount of time organizing things, whether that be bookmarks, things in my house or my mind.
