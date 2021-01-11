@@ -1,6 +1,6 @@
 ## Otis Vickers-Graver
 
- Recently, I came to the realisation that work doesn't have to feel like a chore if it's enjoyable. After completing a couple of coding courses, and accepting my obsession with technology, I decided to make a career change from Youth Work and Stock Control into Software Engineering. To achieve this, I studied at Makers, a highly selective 16-week remote bootcamp. I learnt several languages including Ruby, JavaScript as well as fundamental practices including TDD, OOP, pair-programming and Agile methodologies. These skills will enable me to become a Software Engineer of the highest standard.
+ Recently, I came to the realisation that work doesn't have to feel like a chore if it's enjoyable. After completing a couple of coding courses, and accepting my obsession with technology, I decided to make a career change from Youth Work and Stock Control into Software Engineering. To achieve this, I studied at Makers, a highly selective 16-week remote bootcamp. I learnt several languages including Ruby and JavaScript, as well as fundamental practices including TDD, OOP, pair-programming and Agile methodologies. These skills will enable me to become a Software Engineer of the highest standard.
 
 
 <!--I love how coding allows me to merge my logical thinking processes with my creative mindset. -->
