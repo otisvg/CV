@@ -11,7 +11,7 @@ TBD
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Why Leave**            | A webapp to do x. | React, Jest, etc. |
+| **Why Leave**            | Why Leave was created to educate people on global issues unrepresented in mainstream media, which may cause inhabitants to seek refuge and asylum| React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Experience
