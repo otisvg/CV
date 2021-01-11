@@ -9,10 +9,10 @@ The constant evolution of technology has always made me desperately excited for 
 ## Projects
 TBD
 
-<!--| Name                         | Description       | Tech/tools        |
+| Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |-->
+| **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Experience
 
