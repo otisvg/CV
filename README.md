@@ -7,12 +7,11 @@ The constant evolution of technology has always made me desperately excited for 
 
 
 ## Projects
-TBD
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Why Leave**            | Why Leave was created to educate people on global issues unrepresented in mainstream media, which may cause inhabitants of countries to seek refuge and asylum elsewhere.| React, Ruby on Rails, Google Maps, RSpec Rails, Cypress |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Why Leave**            |   Created to educate users on global issues unrepresented in mainstream media, which may cause inhabitants of countries to seek refuge and asylum elsewhere.| React, Ruby on Rails, Google Maps, RSpec Rails, Cypress |
+| **Bank Tech Test** | Example of my ability to break down a specification into user stories, plan, and test-drive the creation of a program | Ruby, RSpec              |
 
 ## Experience
 
