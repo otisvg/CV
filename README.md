@@ -10,8 +10,9 @@ The constant evolution of technology has always made me desperately excited for 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Why Leave**            |   Created to educate users on global issues unrepresented in mainstream media, which may cause inhabitants of countries to seek refuge and asylum elsewhere.| React, Ruby on Rails, Google Maps, RSpec Rails, Cypress |
-| **Bank Tech Test**                   | Example of my ability to break down a specification into user stories, plan, and test-drive the creation of a program | Ruby, RSpec              |
+| **Why Leave**            |   Group project created to bring awareness to global issues that cause inhabitants of countries to seek refuge and asylum elsewhere.| React, Ruby on Rails, Google Maps, RSpec Rails, Cypress, HTML, CSS |
+| **Bank Tech Test**                   | Example of my ability to break down a specification into user stories, plan, and test-drive the creation of a program. | Ruby, RSpec              |
+| **MakersBNB**                   | BNB project where users are able to book and rent out spaces. | Sinatra, Ruby, RSpec, BCrypt, HTML, CSS             |
 
 ## Experience
 
