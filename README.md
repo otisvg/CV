@@ -1,5 +1,4 @@
 <div align="center"><h1>Otis Vickers-Graver - <em>Software Engineer</em></h1></br>
-
 [Projects](#Projects) | [Technical Skills](#Technical-Skills) | [Technical Experience](#Technical-Experience) | [Soft Skills](#Soft-Skills) | [Work Experience](#Work-Experience) | [Education](#Education) | [Hobbies](#Hobbies)
 
 </div>
