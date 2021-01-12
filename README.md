@@ -63,13 +63,34 @@ My training at Makers included learning about the importance of constructive fee
 
 ## Work Experience
 
-**Soho Sandwich Co - <em>Purchaser and Goods In Handler</em>** (Oct 2019 to Sep 2020)  
+**The Soho Sandwich Co - <em>Purchaser and Goods In Handler</em>** (Oct 2019 to Sep 2020)
 
-**Tesco - <em>Merchandiser and Payroll Clerk</em>** (April 2016 to December 2018)  
+* Assistant purchaser for goods in deliveries
+* Calculated necessary stock orders based on large quantities of customer orders
+* Maintained stock levels of high-volume freezers and chillers
 
-**Talent Match - <em>Youth Lead</em>** (February 2016 to February 2017)                                   
+**Tesco - <em>Merchandiser and Payroll Clerk</em>** (Apr 2016 to December 2018)
 
-**Theo Fennell - <em>Stock Controller</em>** (April 2014 to June 2015)                                              
+* Using software to validate working hours and pay employees
+* Using software and a personal digital assistant to maintain stock records
+* Managed visual merchandising in store, implementing shelf and floor plans
+* Onboarded new stock control employees
+
+**Talent Match - <em>Youth Lead</em>** (February 2016 to February 2017)   
+
+* Provided one-to-one career guidance to young people aged 18-24
+* Managed a team of Youth Workers
+* Ran weekly workshops called ‘Unitee’ in which I taught young people how to screen print custom designs onto t-shirts
+* As Youth Lead I was responsible for organising monthly meetings and briefing all members of the Youth Board on upcoming projects
+* Speaker at a youth mentoring conference in Barcelona
+
+**Theo Fennell - <em>Stock Controller</em>** (April 2014 to June 2015)
+
+* Trained colleagues on stock management software ‘Pursuit’
+* Responsible for processing and dispatching internet orders
+* Responsible for maintaining the company vault by tracking and tracing high-value stock
+* Couriered high-value jewellery to and from suppliers and manufacturers in and around Hatton Garden
+* Delivered and received stock from the Goldsmiths Assay hallmarking office. 
 
 ## Education
 
@@ -81,10 +102,8 @@ Subjects: English, Maths, Biology, Chemistry, Social & Cultural Anthropology, It
 
 #### Gladesmore Community School (September 2006 - July 2010)
 
-- 10 A-C GCSEs
-- Includes A in Maths, English, Science and Food Technology
-- Includes Spanish Business Diploma (BB)
-
+* 10 A-C GCSEs including A in Maths, English, Science and Food Technology
+* Includes Spanish Business Diploma (BB)
 
 ## Hobbies
 
