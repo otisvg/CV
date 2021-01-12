@@ -1,4 +1,4 @@
-<div align="center">## Otis Vickers-Graver - <em>Software Engineer</em></div>
+##<div align="center"> Otis Vickers-Graver - <em>Software Engineer</em></div>
 
 
 I am a recent Makers graduate with strong communication, mentoring and people skills built during my time as a Youth Worker. I am looking for a Full Stack role in which I can continue learning new technologies whilst creating products that provide a valuable experience for users and have a positive impact on society.
