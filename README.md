@@ -96,9 +96,8 @@ My training at Makers included learning about the importance of constructive fee
 
 #### City & Islington Sixth Form College (September 2010 to July 2012)
 
-International Baccalaureate Certificate achieved.
-
-Subjects: English, Maths, Biology, Chemistry, Social & Cultural Anthropology, Italian and Theory of Knowledge.
+* International Baccalaureate Certificate achieved.
+* Subjects: English, Maths, Biology, Chemistry, Social & Cultural Anthropology, Italian and Theory of Knowledge.
 
 #### Gladesmore Community School (September 2006 - July 2010)
 
