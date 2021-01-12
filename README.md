@@ -27,7 +27,7 @@ After witnessing the exponential progression of technology, and realising that b
 
 **Makers Academy (Software engineering bootcamp)** (Sep 2020 - Dec 2020) 
 
-Makers taught me how to teach myself skills that are extremely valuable within the tech industry. This included learning the importance of having a growth mindset, and being confident in picking up new languages and frameworks quickly and efficiently. A typical day consisted of inidividual learning in the mornings, and pair-programming with a different partner each afternoon. Object-oriented programming and test-driven development were two fundamental concepts that I learnt. Group projects were completed following Agile workflows with sprints, standups and retrospectives.
+Makers taught me how to teach myself skills that are extremely valuable within the tech industry. This included learning the importance of having a growth mindset, and being confident in picking up new languages and frameworks quickly and efficiently. A typical day consisted of inidividual learning in the mornings, and pair-programming with a different partner each afternoon. Object-oriented programming and test-driven development were at the core of all the work I did at Makers. Group projects were completed following Agile workflows with sprints, standups and retrospectives.
 
 **Aspirant Analytics (Software Engineer)** (Jan 2019 - Mar 2019)  
 
