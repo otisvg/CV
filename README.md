@@ -33,7 +33,7 @@ After witnessing the exponential progression of technology, and realising that b
 
 Makers taught me how to teach myself skills that are extremely valuable within the tech industry. This included learning the importance of having a growth mindset, and being confident in picking up new languages and frameworks quickly and efficiently. A typical day consisted of inidividual learning in the mornings, and pair-programming with a different partner each afternoon. Object-oriented programming and test-driven development were at the core of all the work I did at Makers. Group projects were completed following Agile workflows with sprints, standups and retrospectives.
 
-**Pirical(formerly Aspirant Analytics) - Software Engineer** (Jan 2019 - Mar 2019)  
+**Pirical (formerly Aspirant Analytics) - Software Engineer** (Jan 2019 - Mar 2019)  
 
 * Redesigned a public-facing company website, following a designer's specifications
 * Built a RESTful API using OpenAPI
