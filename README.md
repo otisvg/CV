@@ -20,6 +20,10 @@ After witnessing the exponential progression of technology, and realising that b
 | [**Bank Tech Test**](https://github.com/otisvg/bank-tech-test)| Example of my ability to break down a specification into user stories, plan, and test-drive the creation of a program. | Ruby, RSpec              |
 | [**MakersBNB**](https://github.com/otisvg/makersbnb) | BNB project where users are able to book and rent out spaces. | Sinatra, Ruby, RSpec, BCrypt, HTML, CSS, Travis             |
 
+
+
+
+
 ## Technical Skills
 
 **Languages, Libraries & Frameworks**: Ruby, JavaScript, React, Ruby on Rails, Sinatra HTML, CSS, SQL
