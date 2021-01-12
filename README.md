@@ -1,7 +1,7 @@
 ## Otis Vickers-Graver
 I am a recent Makers graduate with strong communication, mentoring and people skills built during my time as a Youth Worker. I am looking for a Full Stack role in which I can continue learning new technologies whilst creating products that provide a valuable experience for users and have a positive impact on society.
 
-My journey to becoming a developer has been a hard-fought challenge that I have finally overcome. I am (and always have been) a big computer geek heavily involved with gaming, whizzing around the internet and fixing friends and families gadgets. However, I shied away from studying tech-related subjects in formal education as, funnily enough, I didn’t see how something as fun as technology could be of any use in my future career.
+My journey to becoming a developer has been a hard-fought challenge that I have finally overcome. I am (and always have been) a big computer geek heavily involved in gaming, whizzing around the internet and fixing friends and families gadgets. However, I shied away from studying tech-related subjects in formal education as, funnily enough, I didn’t see how something as fun as technology could be of any use in my future career.
 
 After witnessing the rapid progression of technology, and realising that becoming a developer would be an exciting, future-proof career path full of continuous learning, I completed an immersive Web Development bootcamp at General Assembly in early 2018. Due to some sad personal circumstances, I was not able to translate this wonderful experience into a career. After these circumstances were resolved, I pressed on and was ultimately led to Makers which has equipped me to grow as a developer of the highest standard.
 
