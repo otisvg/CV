@@ -1,6 +1,9 @@
-<div align="center"><h1>Otis Vickers-Graver - <em>Software Engineer</em></h1></div>
+<div align="center"><h1>Otis Vickers-Graver - <em>Software Engineer</em></h1></br>
 
 [Projects](#Projects) | [Technical Skills](#Technical-Skills) | [Technical Experience](#Technical-Experience) | [Soft Skills](#Soft-Skills) | [Work Experience](#Work-Experience) | [Education](#Education) | [Hobbies](#Hobbies)
+
+</div>
+
 
 I am a recent Makers graduate with strong communication, mentoring and people skills built during my time as a Youth Worker. I am looking for a Full Stack role in which I can continue learning new technologies whilst creating products that provide a valuable experience for users and have a positive impact on society.
 
