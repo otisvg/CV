@@ -56,16 +56,11 @@ _Stock Controller_
 
 ## Education
 
-#### Makers Academy (October 2020 to December 2020)
-TBD
-
 #### City & Islington Sixth Form College (September 2010 to July 2012)
 
 International Baccalaureate Certificate achieved.
 
 Subjects: English, Maths, Biology, Chemistry, Social & Cultural Anthropology, Italian and Theory of Knowledge.
-
-Completed a 4000 word extended essay on the environmental impact of the Chernobyl disaster.
 
 #### Gladesmore Community School (September 2006 - July 2010)
 
@@ -73,9 +68,6 @@ Completed a 4000 word extended essay on the environmental impact of the Chernoby
 - Includes A in Maths, English, Science and Food Technology
 - Includes Spanish Business Diploma (BB)
 
-<!--#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person-->
 
 ## Hobbies
 
