@@ -63,13 +63,13 @@ My training at Makers included learning about the importance of constructive fee
 
 ## Work Experience
 
-**Soho Sandwich Co - Purchaser and Goods In Handler** (Oct 2019 to Sep 2020)  
+**Soho Sandwich Co - <em>Purchaser and Goods In Handler</em>** (Oct 2019 to Sep 2020)  
 
-**Tesco - Merchandiser and Payroll Clerk** (April 2016 to December 2018)  
+**Tesco - <em>Merchandiser and Payroll Clerk</em>** (April 2016 to December 2018)  
 
-**Talent Match - Youth Lead** (February 2016 to February 2017)                                   
+**Talent Match - <em>Youth Lead</em>** (February 2016 to February 2017)                                   
 
-**Theo Fennell - Stock Controller** (April 2014 to June 2015)                                              
+**Theo Fennell - <em>Stock Controller</em>** (April 2014 to June 2015)                                              
 
 ## Education
 
