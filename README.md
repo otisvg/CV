@@ -16,7 +16,7 @@ After witnessing the exponential progression of technology, and realising that b
 | [**Bank Tech Test**](https://github.com/otisvg/bank-tech-test)| Example of my ability to break down a specification into user stories, plan, and test-drive the creation of a program. | Ruby, RSpec              |
 | [**MakersBNB**](https://github.com/otisvg/makersbnb) | BNB project where users are able to book and rent out spaces. | Sinatra, Ruby, RSpec, BCrypt, HTML, CSS             |
 
-## Skills
+## Technical Skills
 
 **Languages, Libraries & Frameworks**: Ruby, JavaScript, React, Ruby on Rails, Sinatra HTML, CSS, SQL
 
@@ -40,6 +40,21 @@ Makers taught me how to teach myself skills that are extremely valuable within t
 
 A JavaScript-focused bootcamp and the start of my working journey in becoming a developer. You can check out the projects I created whilst at General Assembly [here](https://codotis.github.io/).
 
+## Soft Skills
+
+**Adaptable**
+
+Swiftly learning new technologies was a core part of my Makers experience. I built projects using Ruby, JavaScript, React, Sinatra and Ruby on Rails - to name a few. As a result, I’m able to pick up new languages and frameworks quickly and confidently by following strong developer processes. This includes learning languages by translation, following documentation, sourcing valuable learning resources online and following my own initiative.
+
+**Communicator**
+
+During my time working at Talent Match I managed a team of Youth Workers and provided one-to-one CV support to young people. This required constant communication, empathy and the aptitude to build friendships with a range of people. I also was a speaker at a youth conference in Barcelona, and ran creative workshops.
+
+**Helper**
+
+My training at Makers included learning about the importance of constructive feedback. To work on this, I asked for feedback at the end of each pairing session. I was frequently told that I'm patient, an excellent teacher and that I'm able to explain concepts both informatively and patiently.
+
+
 ## Work Experience
 
 **Soho Sandwich Co** (October 2019 to September 2020)  
@@ -48,7 +63,7 @@ _Goods In Handler/Ordering_
 **Tesco** (April 2016 to December 2018)  
 _Merchandising/Payroll Clerk_
 
-**Collage Arts** (February 2016 to February 2017)                                   
+**Collage Arts (Talent Match)** (February 2016 to February 2017)                                   
 _Youth Lead_
 
 **Theo Fennell** (April 2014 to June 2015)                                              
