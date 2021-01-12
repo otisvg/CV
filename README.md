@@ -3,7 +3,7 @@ I am a recent Makers graduate with strong communication, mentoring and people sk
 
 My journey to becoming a developer has been a hard-fought challenge that I have finally overcome. I am (and always have been) a big computer geek heavily involved in gaming, whizzing around the internet and fixing friends and families gadgets. However, I shied away from studying tech-related subjects in formal education as, funnily enough, I didn’t see how something as fun as technology could be of any use in my future career.
 
-After witnessing the rapid progression of technology, and realising that becoming a developer would be an exciting, future-proof career path full of continuous learning, I completed an immersive Web Development bootcamp at General Assembly in early 2018. Due to some sad personal circumstances, I was not able to translate this wonderful experience into a career. After these circumstances were resolved, I pressed on and was ultimately led to Makers which has equipped me to grow as a developer of the highest standard.
+After witnessing the exponential progression of technology, and realising that becoming a developer would be an exciting, future-proof career path full of continuous learning, I completed an immersive Web Development bootcamp at General Assembly in early 2018. Due to some sad personal circumstances, I was not able to translate this wonderful experience into a career. After these circumstances were resolved, I pressed on and was ultimately led to Makers which has equipped me to grow as a developer of the highest standard.
 
 
 
@@ -76,8 +76,12 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-I love anything to do with gaming, and can't wait for the release of Cyberpunk 2077.
+#### Reading: I'm currently reading Children of Blood and Bone, an adventurous fantasy novel by Tomi Adeyemi
 
-I travel alot, and recently spent some time in Sydney, Australia which was an amazing experience and the furthest I've ever been from home.
+#### Gaming: I've recently been having a lot of fun playing through Factorio and Warframe
 
-I spend a copious amount of time organizing things, whether that be bookmarks, things in my house or my mind.
+#### Cooking: When I get bored, I cook! Mostly caribbean meals, in very generous amounts
+
+#### Travelling: I love exploring the world, experiencing foreign arts and cultures
+
+
