@@ -76,12 +76,12 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-#### Reading: I'm currently reading Children of Blood and Bone, an adventurous fantasy novel by Tomi Adeyemi
+**Reading**: I'm currently reading Children of Blood and Bone, an adventurous fantasy novel by Tomi Adeyemi
 
-#### Gaming: I've recently been having a lot of fun playing through Factorio and Warframe
+**Gaming**: I've recently been having a lot of fun playing through Factorio and Warframe
 
-#### Cooking: When I get bored, I cook! Mostly caribbean meals, in very generous amounts
+**Cooking**: When I get bored, I cook! Mostly caribbean meals, in very generous amounts
 
-#### Travelling: I love exploring the world, experiencing foreign arts and cultures
+**Travelling**: I love exploring the world, experiencing foreign arts and cultures
 
 
