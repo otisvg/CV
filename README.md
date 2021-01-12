@@ -16,7 +16,7 @@ After witnessing the exponential progression of technology, and realising that b
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**Why Leave**](https://why-leave.vercel.app/) |   Group project created to bring awareness to global issues that cause inhabitants of countries to seek refuge and asylum elsewhere.| React, Ruby on Rails, Google Maps, RSpec Rails, Cypress, HTML, CSS |
+| [**Why Leave**](https://why-leave.vercel.app/) |   Group project created to bring awareness to global issues that cause inhabitants of countries to seek refuge and asylum elsewhere.| React, Ruby on Rails, Google Maps, RSpec Rails, Cypress, HTML, CSS, Vercel CI/CD |
 | [**Bank Tech Test**](https://github.com/otisvg/bank-tech-test)| Example of my ability to break down a specification into user stories, plan, and test-drive the creation of a program. | Ruby, RSpec              |
 | [**MakersBNB**](https://github.com/otisvg/makersbnb) | BNB project where users are able to book and rent out spaces. | Sinatra, Ruby, RSpec, BCrypt, HTML, CSS             |
 
@@ -24,7 +24,7 @@ After witnessing the exponential progression of technology, and realising that b
 
 **Languages, Libraries & Frameworks**: Ruby, JavaScript, React, Ruby on Rails, Sinatra HTML, CSS, SQL
 
-**Tools & Methodologies**: Self-learning, Agile, TDD, OOP, Pair-programming, Feedback, Reviews, Diagramming, Wireframing, User Stories
+**Tools & Methodologies**: Self-learning, CI/CD, Domain Modelling, CRC Cards, Agile workflow, Test-driven development, Object oriented programming, Pair-programming, Feedback, Reviews, Diagramming, Wireframing, User Stories
 
 
 ## Technical Experience
