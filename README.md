@@ -18,21 +18,12 @@ After witnessing the exponential progression of technology, and realising that b
 | [**Bank Tech Test**](https://github.com/otisvg/bank-tech-test)| Example of my ability to break down a specification into user stories, plan, and test-drive the creation of a program. | Ruby, RSpec              |
 | [**MakersBNB**](https://github.com/otisvg/makersbnb) | BNB project where users are able to book and rent out spaces. | Sinatra, Ruby, RSpec, BCrypt, HTML, CSS             |
 
-## Experience
-
-**Soho Sandwich Co** (October 2019 to September 2020)  
-_Goods In Handler/Ordering_
-
-**Tesco** (April 2016 to December 2018)  
-_Merchandising/Payroll Clerk_
-
-**Collage Arts** (February 2016 to February 2017)                                   
-_Youth Lead_
-
-**Theo Fennell** (April 2014 to June 2015)                                              
-_Stock Controller_
 
 ## Skills
+
+**Languages, Libraries & Frameworks**: Ruby, JavaScript, React, Ruby on Rails, Sinatra HTML, CSS, SQL
+
+**Tools & Methodologies**: Self-learning, Agile, TDD, Pair-programming, Feedback, Reviews, Diagramming, Wireframing, User Stories
 
 **I enjoy learning**
 
@@ -50,6 +41,19 @@ I spent the majority of my time at Collage Arts mentoring young people. This inc
 
 Whenever I want to create something it's often because it doesn't exist yet, or that it does but a much better job could be done.
 
+## Experience
+
+**Soho Sandwich Co** (October 2019 to September 2020)  
+_Goods In Handler/Ordering_
+
+**Tesco** (April 2016 to December 2018)  
+_Merchandising/Payroll Clerk_
+
+**Collage Arts** (February 2016 to February 2017)                                   
+_Youth Lead_
+
+**Theo Fennell** (April 2014 to June 2015)                                              
+_Stock Controller_
 
 ## Education
 
@@ -80,7 +84,7 @@ That in some arguable way make you a better software developer or well-rounded p
 
 **Gaming**: I've recently been having a lot of fun playing through Factorio and Warframe
 
-**Cooking**: When I get bored, I cook! Mostly caribbean meals, in very generous amounts
+**Cooking**: When I get bored, I cook! Mostly Caribbean meals, in very generous amounts
 
 **Travelling**: I love exploring the world, experiencing foreign arts and cultures
 
