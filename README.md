@@ -1,8 +1,10 @@
 ## Otis Vickers-Graver
+I am a recent Makers graduate with strong communication, mentoring and people skills built during my time as a Youth Worker. I am looking for a Full Stack role in which I can continue learning new technologies whilst creating products that provide a valuable experience for users.
 
- My obsession with technology... In previous roles, I felt I hit a ceiling in terms of my learning and wantd a change
+My journey to becoming a developer has been a hard-fought challenge that I have finally overcome. I am (and always have been) a big computer geek heavily involved with gaming, whizzing around the internet and fixing friends and families gadgets. However, I shied away from studying tech-related subjects in formal education as, funnily enough, I didn’t see how something as fun as technology could be of any use in my future career.
 
-Recently, I came to the realisation that work doesn't have to feel like a chore if it's enjoyable. After completing a couple of coding courses, and accepting my obsession with technology, I decided to make a career change from Youth Work and Stock Control into Software Engineering. To achieve this, I studied at Makers, a highly selective 16-week remote bootcamp. I learnt several languages including Ruby and JavaScript, as well as fundamental practices including TDD, OOP, pair-programming and Agile methodologies. These skills will enable me to become a Software Engineer of the highest standard.
+After witnessing the rapid progression of technology, and realising that becoming a developer would be an exciting, future-proof career path full of continuous learning, I completed an immersive Web Development bootcamp at General Assembly in early 2018. Due to some sad personal circumstances, I was not able to translate this wonderful experience into a career. After these circumstances were resolved, I pressed on and was ultimately led to Makers which has equipped me to grow as a developer of the highest standard.
+
 
 
 <!--I love how coding allows me to merge my logical thinking processes with my creative mindset. -->
