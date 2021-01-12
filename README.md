@@ -24,7 +24,7 @@ After witnessing the exponential progression of technology, and realising that b
 
 **Languages, Libraries & Frameworks**: Ruby, JavaScript, React, Ruby on Rails, Sinatra HTML, CSS, SQL
 
-**Tools & Methodologies**: Self-learning, CI/CD, Domain Modelling, CRC Cards, Agile workflow, Test-driven development, Object oriented programming, Pair-programming, Feedback, Reviews, Diagramming, Wireframing, User Stories
+**Tools & Methodologies**: Self-learning, Travis, Vercel, Domain Modelling, CRC Cards, Agile workflow, Test-driven development, Object oriented programming, Pair-programming, Feedback, Reviews, Diagramming, Wireframing, User Stories
 
 
 ## Technical Experience
