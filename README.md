@@ -5,7 +5,7 @@
 </div>
 
 
-Hello! I'm a recent Makers graduate with strong communication, mentoring and people skills built during my time as a Youth Worker. I am looking for a Full Stack role in which I can continue learning new technologies whilst creating products that provide a valuable experience for users and have a positive impact on society.
+Hello! I'm a recent Makers graduate with strong communication, mentoring and people skills built during my time as a Youth Worker. I am looking for a Software Engineering role in which I can continue learning new technologies whilst creating products that provide a valuable experience for users and have a positive impact on society.
 
 My journey to becoming a developer has been a hard-fought challenge that I have finally overcome. I am (and always have been) a big computer geek heavily involved in gaming, whizzing around the internet and fixing friends and families gadgets. However, I shied away from studying tech-related subjects in formal education as, funnily enough, I didn’t see how something as fun as technology could be of any use in my future career.
 
