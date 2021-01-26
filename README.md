@@ -94,14 +94,14 @@ My training at Makers included learning about the importance of constructive fee
 * Responsible for processing and dispatching internet orders
 * Responsible for maintaining the company vault by tracking and tracing high-value stock
 * Couriered high-value jewellery to and from suppliers and manufacturers in and around Hatton Garden
-* Delivered and received stock from the Goldsmiths Assay hallmarking office. 
+* Delivered and received stock from the Goldsmiths Assay hallmarking office
 
 ## Education
 
 #### City & Islington Sixth Form College (September 2010 to July 2012)
 
-* International Baccalaureate Certificate achieved.
-* Subjects: English, Maths, Biology, Chemistry, Social & Cultural Anthropology, Italian and Theory of Knowledge.
+* International Baccalaureate Certificate achieved
+* Subjects: English, Maths, Biology, Chemistry, Social & Cultural Anthropology, Italian and Theory of Knowledge
 
 #### Gladesmore Community School (September 2006 - July 2010)
 
