@@ -9,7 +9,7 @@ Hello! I'm a recent Makers graduate with strong communication, mentoring and peo
 
 I am (and always have been) big into computers, heavily involved in gaming, whizzing around the internet and fixing friends and families gadgets. However, I shied away from studying tech-related subjects in formal education. How could something as fun as technology be of any use in my future career? 
 
-After witnessing the exponential progression of technology, and realising that becoming a Software Engineer would be an exciting, future-proof career path full of continuous learning, I completed an immersive Web Development bootcamp at General Assembly in early 2018. Due to some sad personal circumstances, I was not able to translate this wonderful experience into a career. After these circumstances were resolved, I pressed on and was ultimately led to Makers which has equipped me to become a developer of the highest standard.
+Growing up, I witnessed the exponential progression of technology and only later did I realise that becoming a Software Engineer would be an exciting, future-proof career path full of continuous learning. I completed an immersive Web Development bootcamp at General Assembly in early 2018. Due to some sad personal circumstances, I was not able to translate this wonderful experience into a career. However, in the face of adversity, I pressed on and was ultimately led to Makers which has equipped me to become a developer of the highest standard.
 
 
 ## Projects
