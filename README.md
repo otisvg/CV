@@ -28,7 +28,7 @@ Growing up, I witnessed the exponential progression of technology and only later
 
 **Languages, Libraries & Frameworks**: Ruby, RSpec, JavaScript, Jest, React, Ruby on Rails, Sinatra, HTML, CSS, SQL
 
-**Tools & Methodologies**: Self-learning, Travis, Vercel, Domain Modelling, CRC Cards, Agile workflow, Test-driven development, Object oriented programming, Pair-programming, Feedback, Reviews, Diagramming, Wireframing, User Stories
+**Tools & Methodologies**: Test-driven development, Pair-programming, Git collaboration, Travis, Vercel, Domain Modelling, CRC Cards, Agile workflow, Reviews, Diagramming, Wireframing, User Stories
 
 
 ## Technical Experience
