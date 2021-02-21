@@ -26,7 +26,7 @@ Growing up, I witnessed the exponential progression of technology and only later
 
 ## Technical Skills
 
-**Languages, Libraries & Frameworks**: Ruby, JavaScript, React, Ruby on Rails, Sinatra HTML, CSS, SQL
+**Languages, Libraries & Frameworks**: Ruby, RSpec, JavaScript, Jest, React, Ruby on Rails, Sinatra, HTML, CSS, SQL
 
 **Tools & Methodologies**: Self-learning, Travis, Vercel, Domain Modelling, CRC Cards, Agile workflow, Test-driven development, Object oriented programming, Pair-programming, Feedback, Reviews, Diagramming, Wireframing, User Stories
 
